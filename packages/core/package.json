@@ -1,6 +1,6 @@
 {
   "name": "@idea-cli-master/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "idea-cli dev core",
   "author": "sijie_long <768712778@qq.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@idea-cli-master/utils": "^1.0.0"
+    "@idea-cli-master/utils": "^1.0.1"
   }
 }
